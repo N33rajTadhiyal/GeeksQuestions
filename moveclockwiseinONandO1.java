@@ -13,10 +13,9 @@ class moveclockwiseinONandO1{
 for(int i =0;i<a.length;i++)
 {
     System.out.println(a[i]+"");
-}
+}  
 
-        
-    }
+}
   public static void reverse(int a[],int l ,int  h) {
       while(l<h)
       {
